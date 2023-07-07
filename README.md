@@ -75,7 +75,7 @@ https://chartcube.alipay.com/
 
 区别于传统的 BI，用户只需要导入最原始的数据集，输入想要进行分析的目标（比如帮我分析一下网站的增长趋势），就能利用 AI 自动生成一个符合要求的图表以及结论。
 
-![image-20230611235506945](C:\Users\bx\AppData\Roaming\Typora\typora-user-images\image-20230611235506945.png)
+![image](https://github.com/yigem/yzjBI/blob/main/tupian/tongbu.png) 
 
 **优点：**让不会数据分析的同学也能通过输入目标快速完成数据分析，节约人力成本，会用到 AI 接口。
 
@@ -93,11 +93,11 @@ https://chartcube.alipay.com/
 
 ##### 基础流程：
 
-![image-20230612000149794](C:\Users\bx\AppData\Roaming\Typora\typora-user-images\image-20230612000149794.png)
+![image](https://github.com/yigem/yzjBI/blob/main/tupian/jichuliucheng.png) 
 
 ##### 优化流程（异步化）：
 
-![image-20230612000307579](C:\Users\bx\AppData\Roaming\Typora\typora-user-images\image-20230612000307579.png)
+![image](https://github.com/yigem/yzjBI/blob/main/tupian/youhuahou.png) 
 
 #### 技术栈
 
@@ -197,7 +197,7 @@ AI 回答： 根据给出的数据，我们可以计算出每日用户增长量�
 
 AI 提词技巧③： 在系统层面做预设效果一般来说，会比直接拼接在用户消息里效果更好一些。
 
-![image-20230619221032870](C:\Users\bx\AppData\Roaming\Typora\typora-user-images\image-20230619221032870.png)
+![image](https://github.com/yigem/yzjBI/blob/main/tupian/diaoyongai.png) 
 
 #### 三.智能分析业务流程开发
 
@@ -231,7 +231,7 @@ echarts 支持在线调试：https://echarts.apache.org/examples/zh/editor.html?
 
 ① 使用系统预设
 
-![image-20230620174429342](C:\Users\bx\AppData\Roaming\Typora\typora-user-images\image-20230620174429342.png)
+![image](https://github.com/yigem/yzjBI/blob/main/tupian/aiyushe.png) 
 
 ② 控制输入格式（便于 AI 精确地理解我们的需求）
 
@@ -313,7 +313,7 @@ echarts 支持在线调试：https://echarts.apache.org/examples/zh/editor.html?
 
 把**每个图表对应的原始数据单独保存为一个新的数据表**，而不是都存放在一个字段里
 
-![image-20230621221247303](C:\Users\bx\AppData\Roaming\Typora\typora-user-images\image-20230621221247303.png)
+![image](https://github.com/yigem/yzjBI/blob/main/tupian/xinshujuku.png) 
 
 优点：
 
@@ -383,7 +383,7 @@ echarts 支持在线调试：https://echarts.apache.org/examples/zh/editor.html?
 
 **优化流程（异步化）：**
 
-![image-20230622100559123](C:\Users\bx\AppData\Roaming\Typora\typora-user-images\image-20230622100559123.png)
+![image](https://github.com/yigem/yzjBI/blob/main/tupian/yibuhua.png) 
 
 **问题：**
 
@@ -429,7 +429,7 @@ echarts 支持在线调试：https://echarts.apache.org/examples/zh/editor.html?
 
 ##### 消息队列的模型
 
-**![image-20230622133019887](C:\Users\bx\AppData\Roaming\Typora\typora-user-images\image-20230622133019887.png)**
+![image](https://github.com/yigem/yzjBI/blob/main/tupian/xiaoxiduiliemoxing.png) 
 
 ##### 为什么要用消息队列？
 
