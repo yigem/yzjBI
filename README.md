@@ -1,5 +1,60 @@
 ### 基于OpenAI的数据可视化平台
 
+#### 项目成果
+
+http://39.101.74.250:8088
+
+账户：yzj123
+密码：123456789
+
+**登录页面**
+
+![image](https://github.com/yigem/yzjBI/blob/main/tupian/denglu.png) 
+
+**注册页面**
+
+![image](https://github.com/yigem/yzjBI/blob/main/tupian/zhuce.png) 
+
+**功能列表**
+
+![image](https://github.com/yigem/yzjBI/blob/main/tupian/gongnengliebiao.png)
+
+**智能分析（同步）**
+
+![image](https://github.com/yigem/yzjBI/blob/main/tupian/tongbu.png) 
+
+**因为智能分析（异步）是用的线程池实现的，结果和MQ一样，但是最大区别是线程池没有持久化的功能。**
+
+**智能分析（MQ）**
+
+![image](https://github.com/yigem/yzjBI/blob/main/tupian/mq.png)
+
+**智能分析（MQ）生成中**
+
+![image](https://github.com/yigem/yzjBI/blob/main/tupian/wodetubiao.png)
+
+**智能分析（MQ）结果**
+
+![image](https://github.com/yigem/yzjBI/blob/main/tupian/wodetubiaojieguo.png)
+
+#### 新增功能
+
+**形势与政策**
+
+![image](https://github.com/yigem/yzjBI/blob/main/tupian/xingshizhengce.png)
+
+**形势与政策分析结果**
+
+![image](https://github.com/yigem/yzjBI/blob/main/tupian/xszcjieguo.png)
+
+**AI模型**
+
+![image](https://github.com/yigem/yzjBI/blob/main/tupian/ai.png)
+
+**AI模型分析结果**
+
+![image](https://github.com/yigem/yzjBI/blob/main/tupian/aijieguo.png) 
+
 #### 项目介绍
 
 商业智能BI：数据可视化，报表可视化系统
